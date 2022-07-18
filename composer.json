@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/projeto",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "samuel.filho",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Alura\\DesignPattern\\": "src/"
+    }
+  },
+  "require": {
+  }
+}
